@@ -15,6 +15,6 @@ It took me years to finally make a box for all of it, including a Power Supply.
 * Micro USB cable with 90° plug
 * 3mm threaded inserts
 
-I use the upper part of this thing to mount the fan on top of the Raspberry Pi: https://www.thingiverse.com/thing:3743755
+I use the upper part of this thing to mount the fan on top of the Raspberry Pi: https://www.thingiverse.com/thing:3743755 It needs to be cut down to fit into the case.
 
 
