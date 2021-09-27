@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/196336/134646720-ee257d00-4c26-4281-b23e-f8338e6abd24.png)
+![image](https://user-images.githubusercontent.com/196336/134973249-a32cdbc4-088e-4905-bd3d-ab509e0d34ca.png)
 
 # BrewPi Enclosure
 I never liked that my BrewPi Spark and Raspberry Pi were flopping around on top of my fermentation fridge.
 It took me years to finally make a box for all of it, including a Power Supply. 
 
-*This is Work In Progress.*
 
 ## Bill of Materials (BOM)
 
